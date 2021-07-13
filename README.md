@@ -9,3 +9,8 @@ The change was made as Kade Engine servers report the PC version, not the consol
 ## This is not a server!
 
 The eyes are made to look at the nature, objects and enviroments active on Github, no?
+
+# Make KE listen to ConsoleKE servers.
+
+- TitleState.hx
+- Modify update URL to https://palansecpw.github.io/ConsoleKEUpdateServer/version.downloadMe
